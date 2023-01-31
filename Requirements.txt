@@ -1,0 +1,7 @@
+numpy
+pandas
+streamlit
+keras
+tensorflow-cpu
+splitfolders
+opencv-contrib-python-headless
